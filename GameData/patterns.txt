@@ -8,3 +8,13 @@
 <C> <'cat_peoples> <cat_nouns>
 <C> <'cat_nouns> <cat_nouns>
 <C> <cat_nouns>-<cat_nouns>
+<C> <nouns> <knights>
+<C> <'nouns> <knights>
+<C> <nouns> <real>
+<C> <'nouns> <real>
+<C> <real> <titles>
+<C> <real> <knights>
+<C> <greek_gods> <real>
+<C> <nouns> <greek_gods>
+<C> <'nouns> <greek_gods>
+<C> <'cat_peoples> <greek_gods>
